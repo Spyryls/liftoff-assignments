@@ -41,4 +41,6 @@ Include what you will need to learn here:
 I would have to earn either Bootstrap or React if I include those two languages. I have been told taht if I was looking into a front-end spot that those are languages I would want to have under my belt. Probably ought to be versed in API as well.
 
 ### Project Tracker
-Link to your Trello board here
+Link to your Trello board here:
+
+https://trello.com/b/0tl7gQW8/artist-showcase
